@@ -1,0 +1,22 @@
+body {
+    background-color: #f4f7fc;
+}
+
+#login-card {
+    width: 350px;
+    background: #fff;
+}
+
+#login-title {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+#forgot-password {
+    color: #007bff;
+    text-decoration: none;
+}
+
+#forgot-password:hover {
+    text-decoration: underline;
+}
